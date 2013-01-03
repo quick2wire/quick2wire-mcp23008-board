@@ -4,3 +4,6 @@ This board uses the MCP23008 to add an 8-bit I/O port that is accessed using the
 
 The board has been created but one has not yet been produced using these files.
 
+
+-------------------------------------------------------
+Copyright (c) 2013 Quick2Wire Ltd. http://quick2wire.com
