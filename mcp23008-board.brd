@@ -135,7 +135,7 @@
 <hole x="44.45" y="2.54" drill="3.2"/>
 <hole x="2.54" y="2.54" drill="3.2"/>
 <hole x="2.54" y="38.1" drill="3.2"/>
-<text x="19.685" y="38.735" size="1.016" layer="21">Port Expander 0.3</text>
+<text x="19.685" y="38.735" size="1.016" layer="21">Port Expander V0.3</text>
 <wire x1="12.7" y1="30.48" x2="12.7" y2="24.765" width="0.6096" layer="25"/>
 <wire x1="11.43" y1="20.32" x2="15.24" y2="20.32" width="0.6096" layer="25"/>
 <text x="25.4" y="34.29" size="1.016" layer="25" ratio="6">+5V</text>
